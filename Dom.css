@@ -1,0 +1,23 @@
+/* holder css */
+
+.holder{
+    border: 2px solid;
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#box1,#box2,#box3{
+    height: 400px;
+    width: 400px;
+    border: 2px solid;
+    border-radius: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+button{
+    height: 30px;
+    width: 150px;
+}
+
